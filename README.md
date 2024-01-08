@@ -107,7 +107,7 @@ Stop Time	2023-05-05 4:25 PM
 
 For each simulated attack I practiced incident responses following NIST SP 800-61 r2.
 
-![NIST 800.61](https://i.imgur.com/6PTG7c0l.png)
+![NIST 800.61](https://i.imgur.com/VUTWhEe.png)
 
 Every organization will have specific incident response policies that must be adhered to. This scenario is merely a step-by-step guide outlining potential actions to be taken upon the detection of malware on a workstation.  
 
