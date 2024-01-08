@@ -7,10 +7,12 @@
 In this project, I create a mini honeynet, emulating real-world traffic by luring global attackers via Microsoft Azure. The primary objective of this undertaking is to illustrate optimal security measures, effective incident response strategies, and the impact of fortifying your system. This will be achieved by deliberately deploying virtual machines lacking safeguards against the public internet, enticing attackers into our environment. Subsequently, by incorporating log sources into the Log Analytics Workspace, Microsoft Sentinel will be utilized to generate attack maps, alerts, and incidents. The intention is to present metrics reflecting the state of the environment before and after fortification, derived from incidents recorded during the 24-hour monitoring period.
 
 ## Architecture Before Hardening / Security Controls
-IMAGE MISSING
+<p align="center">
+<img src="https://i.imgur.com/OtHNlgn.png" height="70%" width="70%" alt="9"/><br />
 
 ## Architecture After Hardening / Security Controls
-IMAGE MISSING
+<p align="center">
+<img src="https://i.imgur.com/5zsi34J.png" height="70%" width="70%" alt="9"/><br />
 
 ## Azure Components and Architecture Technologies Used
 - Azure Virtual Network (VNet)
