@@ -1,6 +1,6 @@
 # azure-soc-honeynet
 # Azure Honeynet & SOC Project: Cyber Attacks in Real Time
-![Cloud Honeynet / SOC](https://i.imgur.com/7s0rHfn.png)
+![Cloud Honeynet / SOC](https://i.imgur.com/yMxqsuG.png)
 
 ## Introduction
 
@@ -73,16 +73,16 @@ These improvements included:
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:<br/>
-Start Time 2023-05-03 09:15 AM<br/>
-Stop Time 2023-05-04 09:15 AM
+Start Time 2024-01-06 05:03 PM<br/>
+Stop Time 2024-01-078= 05:03 PM
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent (Windows VM)            | 4358
-| Syslog (Linux VM)                   | 2345
-| SecurityAlert (Microsoft Defender for Cloud            | 6
-| SecurityIncident (Sentinel Incidents)        | 73
-| NSG Inbound Malicious Flows Allowed | 103
+| SecurityEvent (Windows VM)            | 26,835
+| Syslog (Linux VM)                   | 7716
+| SecurityAlert (Microsoft Defender for Cloud            | 3
+| SecurityIncident (Sentinel Incidents)        | 345
+| NSG Inbound Malicious Flows Allowed | 3050
 
 
 
