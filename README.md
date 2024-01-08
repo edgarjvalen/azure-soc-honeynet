@@ -78,10 +78,10 @@ Stop Time 2024-01-078= 05:03 PM
 | Metric                   | Count
 | ------------------------ | -----
 | SecurityEvent (Windows VM)            | 26,835
-| Syslog (Linux VM)                   | 7716
+| Syslog (Linux VM)                   | 7,716
 | SecurityAlert (Microsoft Defender for Cloud            | 3
 | SecurityIncident (Sentinel Incidents)        | 345
-| NSG Inbound Malicious Flows Allowed | 3050
+| NSG Inbound Malicious Flows Allowed | 3,050
 
 
 
