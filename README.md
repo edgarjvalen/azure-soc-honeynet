@@ -1,4 +1,3 @@
-# azure-soc-honeynet
 # Azure Honeynet & SOC Project: Cyber Attacks in Real Time
 ![Cloud Honeynet / SOC](https://i.imgur.com/yMxqsuG.png)
 
