@@ -69,7 +69,7 @@ In the "AFTER" phase, I implemented security enhancements and controls based on 
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:<br/>
 Start Time 2024-01-06 05:03 PM<br/>
-Stop Time 2024-01-07 05:03 PM
+Stop Time  2024-01-07 05:03 PM
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -90,8 +90,8 @@ Stop Time 2024-01-07 05:03 PM
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:<br/>
-Start Time 2024-01-07 11:20:26PM<br/>
-Stop Time	 2024-01-08 11:20:26PM
+Start Time 2024-01-07 11:20 PM<br/>
+Stop Time	 2024-01-08 11:20 PM
 
 | Metric                   | Count
 | ------------------------ | -----
