@@ -90,26 +90,26 @@ Stop Time 2024-01-07 05:03 PM
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:<br/>
-Start Time 2023-05-15 18:23:10<br/>
-Stop Time	 2023-06-15 20:34:21
+Start Time 2024-01-07 11:20:26PM<br/>
+Stop Time	 2024-01-08 11:20:26PM
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
-| Syslog                   | 25
+| SecurityEvent            | 262
+| Syslog                   | 3
 | SecurityAlert            | 0
-| SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+| SecurityIncident         | 11
+| AzureNetworkAnalytics_CL | 15
 
-SecurityEvent: Witnessed an reduction of approximately 74.48%, minimizing potential threats.
+SecurityEvent: Witnessed an reduction of approximately 99.02%, minimizing potential threats.
 
-Syslog: Achieved an decrease of around 97.33%, ensuring enhanced monitoring and threat detection capabilities.
+Syslog: Achieved an decrease of around 99.96%, ensuring enhanced monitoring and threat detection capabilities.
 
 SecurityAlert: Achieved an 100% decrease, indicating the elimination of alerts through rigorous hardening measures.
 
-SecurityIncident: Successfully attained a 100% decrease, signifying complete prevention of security incidents.
+SecurityIncident: Successfully attained a 96.81% decrease, signifying complete prevention of security incidents.
 
-AzureNetworkAnalytics_CL: Accomplished a 100% decrease, eliminating any potential entries and fortifying the network's resilience.
+AzureNetworkAnalytics_CL: Accomplished a 99.51 decrease, eliminating any potential entries and fortifying the network's resilience.
 
 ## Approach to Handling High-Priority Incidents with NIST Guidelines and Security Controls
 For effective management of high-priority incidents, I adhered to NIST 800-61 (Revision 2) guidelines and implemented security controls specified in NIST SP 800-53 (Revision 5). The approach involved:
